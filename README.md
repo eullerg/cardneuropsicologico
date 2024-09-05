@@ -19,11 +19,11 @@
 
   ### 📁 Projeto
 
-Você pode <strong> acessar o código fonte do projeto </strong> ou <strong> baixar o projeto </strong>
+Você pode <strong> acessar o código do projeto </strong> ou <strong> baixar </strong>
 
 ### 🛠️ Rodar o Card Neuropsicologico
 
-Para rodar o **Card Neuropsicologico**, basta clicar no link do website **https://eullerg.github.io/cardneuropsicologico/** 
+Para acessar o **Card Neuropsicologico**, basta clicar no link do website **https://cardneuropsicologico.streamlit.app/** 
 
 
 ### Contato
