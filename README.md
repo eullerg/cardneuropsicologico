@@ -11,7 +11,7 @@
 
   <h2 align="center"> :milky_way: Card Neuropsicologico :milky_way: </h2>
 
-  Entenda melhor os seus pacientes <br />built Python, Streamlit & HTML.
+  Entenda melhor os seus pacientes com o Card Neuropsicologico <br />Criado com Python, Streamlit & HTML.
 
   </div>
 
