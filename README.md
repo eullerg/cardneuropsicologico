@@ -11,7 +11,7 @@
 
   <h2 align="center"> :milky_way: Card Neuropsicologico :milky_way: </h2>
 
-  Entenda melhor os seus pacientes com o Card Neuropsicologico <br />Criado com Python, Streamlit & HTML.
+  Entenda melhor os seus pacientes com o Card Neuropsicologico <br />Criado com Python, Streamlit, HTML & CSS.
 
   </div>
 
@@ -34,7 +34,7 @@ Se você deseja entrar em contato comigo, você pode me enviar uma mensagem ness
 
  [Instagram](https://www.instagram.com/og.euller)
 
-or you can also contact me at [Linkedin](https://www.linkedin.com/in/euler-germano-8bb425252/)
+ou você pode me enviar uma mensagem no [Linkedin](https://www.linkedin.com/in/euler-germano-8bb425252/)
 
 
 
