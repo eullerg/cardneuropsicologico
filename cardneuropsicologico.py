@@ -11,7 +11,7 @@ import random
 
 st.set_page_config(page_title="Card Neuropsicologico", page_icon="🧠", initial_sidebar_state="collapsed")
 
-# Criar um modulo chamado config.py e adicionar essa config de markdown como uma variavel que será exportada no modulo principal do app.
+# TODO: Criar um modulo chamado config.py e adicionar essa config de markdown como uma variavel que será exportada no modulo principal do app.
 st.markdown("""
 <style>
     .stApp {
@@ -70,8 +70,8 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
-# Remover os grupos da função e transformar em variaveis globais.
-# Adaptar a lógica para ele pegar um texto aleátorio de um baralho especifico, ele deve ser capaz de receber a informação de qual baralho extrair a informação.
+# TODO: Remover os grupos da função e transformar em variaveis globais.
+# TODO: Adaptar a lógica para ele pegar um texto aleátorio de um baralho especifico, ele deve ser capaz de receber a informação de qual baralho extrair a informação.
 def get_random_text():
     group_a = [
         "Sinto que minha mente nunca para, e isso me esgota.",
@@ -124,10 +124,10 @@ def get_random_text():
     selected_group, category = random.choice(groups)
     return random.choice(selected_group), category
 
-# Mover essa sessão para um arquivo unico chamado app.py
-# Nesse novo arquivo app.py deve ser importada a lógica de retorno de texto aleatorio em cardneuropsicologico.py
-# Adicionar 3 novos botões : Resolvido, Para depois e Descartar
-# Criar um Display para as quantidades de cards Resolvidos, Para depois e Descarta. O display deve mostrar a quantidade classificada pela ação de clique nos botões para cada umas das categorias durante a execução do jogo. 
+# TODO: Mover essa sessão para um arquivo unico chamado app.py
+# TODO: Nesse novo arquivo app.py deve ser importada a lógica de retorno de texto aleatorio em cardneuropsicologico.py
+# TODO: Adicionar 3 novos botões : Resolvido, Para depois e Descartar
+# TODO: Criar um Display para as quantidades de cards Resolvidos, Para depois e Descarta. O display deve mostrar a quantidade classificada pela ação de clique nos botões para cada umas das categorias durante a execução do jogo. 
 st.title("Card Neuropsicologico")
 
 if 'text' not in st.session_state:
