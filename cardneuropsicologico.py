@@ -1,3 +1,8 @@
+"""
+Cards Neuro Psicologicos
+
+Authors: @eullerg @dimasgb7
+"""
 import streamlit as st
 import random
 
