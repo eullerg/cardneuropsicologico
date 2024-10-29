@@ -17,9 +17,10 @@
 
   <br />
 
-  ### 📁 Projeto
+  ### 📁 Arquitetura doProjeto
 
-Você pode <strong> acessar o código do projeto </strong> ou <strong> baixar </strong>
+![Arquitetura do Projeto](src/images/Diagram.png)
+
 
 ### 🛠️ Rodar o Card Neuropsicologico
 

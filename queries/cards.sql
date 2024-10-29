@@ -1,0 +1,11 @@
+CREATE DATABASE IF NOT EXISTS cards_db;
+USE cards_db;
+
+CREATE TABLE IF NOT EXISTS cards (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    category VARCHAR(255) NOT NULL,
+    text TEXT NOT NULL
+);
+
+ 
+    
